@@ -22,7 +22,7 @@ Follow these steps to clone the repository and run the project on your local mac
    ```sh
    jupyter notebook
 
-4. **Open the Notebook**
+4. **Open the Notebook** <br />
    In the Jupyter Notebook interface, navigate to the cloned repository directory and open the sentiment-analysis.ipynb file. Run all the cells to see the results.
 
    
