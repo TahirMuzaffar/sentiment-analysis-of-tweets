@@ -10,8 +10,8 @@ Follow these steps to clone the repository and run the project on your local mac
 
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/your-username/Sentiment_Analysis_Tweets.git
-   cd Sentiment_Analysis_Tweets
+   git clone https://github.com/TahirMuzaffar/sentiment-analysis-of-tweets.git
+   cd sentiment-analysis-of-tweets
 
 2. **Install Required Python Libraries**
    Ensure you have all the necessary Python libraries. Install them using:
